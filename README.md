@@ -1,4 +1,4 @@
-## Hi, I'm Mariam!
+
 
 <img src="headshot.png" width="200" height="200">
 
